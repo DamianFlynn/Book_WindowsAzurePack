@@ -16,6 +16,7 @@
 * [Part III - Service Transition](Part III/overview.adoc)
   * [Identity Federation](Part III/federation/overview.adoc)
 * [Part IV - Service Operation](Part IV/overview.adoc)
+  * [Monitoring](Part IV/monitoring/scom_update_rollups.adoc) 
 * [Part V - Appendix](Part V/overview.adoc)
   * [SSL Certificates](Part V/SSL/Overview.adoc)
   * [Reference Images](Part V/Images/Overview.adoc)
