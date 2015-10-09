@@ -1,4 +1,5 @@
-![](cover.jpg)# Windows Azure Pack
+![](cover.jpg)
+# Windows Azure Pack
 
 Welcome to the Windows Azure Pack implementors guide. While the primary objective of this guide is to help you implement a fully operational Windows Azure Pack environment, the approach we are going to use, is coupled on the concept of IT Service deliver, and many sections of this book should prove to be a useful resource as you set about implementing and delivering additional services for your IT environment.
 
