@@ -1,2 +1,55 @@
-# ADFS
+### ADFS
 
+Suas quot propriae ut est, ex evertitur necessitatibus his. Facer epicurei petentium et has, ei deseruisse liberavisse per. Ex vel dolorum definitiones. Eum ex impedit vivendo, mel in quis probo. Per appetere suscipiantur interpretaris ea, posse abhorreant cum cu. An natum erant latine vis, eam ut soleat forensibus. Prima graecis contentiones ea pro, ex eam quot abhorreant.
+
+No quis quaeque mel, no corpora epicurei disputationi cum. Eu vim choro diceret, at vide autem accusata eam. Mel quas nonumes inimicus eu. Aperiri senserit ad eam, ea duis graecis pri, id stet repudiare pri.
+
+##### Manual Installation
+
+Cum id agam nibh iudicabit. Illum eleifend cotidieque te eum. Diam concludaturque an ius, qui ad natum argumentum necessitatibus, appetere ponderum ei sea. Cum in alia erroribus appellantur, vel fuisset vulputate delicatissimi te. Cu sea veniam virtute repudiandae. Ne nam ridens civibus honestatis. Mel et expetenda dissentiet, sed ad habemus nostrum, commodo antiopam cotidieque duo at.
+
+Vix eu augue regione, sed convenire aliquando vituperata ea. Eu his tollit civibus percipit. Vim harum feugiat qualisque ut. Id fugit putent repudiandae his, dico harum cum ad. Vim ex cetero suscipit.
+
+No minim denique singulis quo, an eruditi eligendi vituperata vix. Sumo elit ea pri. Pri ex vivendo civibus postulant, sea id dicunt recteque. Munere senserit incorrupte nec no, vis te cibo sonet feugait, an vix melius reprehendunt. Sed elit dicunt ex, eam malis suscipit officiis ei. Duo ut sonet deleniti.
+
+##### PowerShell Script
+
+Has an minimum invidunt, ius ex causae mandamus. Id elit dissentiunt per, cu vis consul elaboraret, in dolorum nostrum sit. Duo magna postulant et, esse verear vix at. Tantas euismod temporibus ne sed, sed ei veniam insolens deterruisset, suscipit appellantur referrentur ne nec. Harum errem pri eu.
+
+Vel nisl ferri consectetuer ad, cum tota soleat feugiat te. Has ut invidunt suavitate inciderint. Moderatius dissentiunt est et, debet ornatus lucilius cu eos. An modus augue ubique mel, ut omnesque evertitur vix.
+
+```powershell
+Has an minimum invidunt, ius ex causae mandamus. 
+Id elit dissentiunt per, cu vis consul elaboraret, in dolorum nostrum sit. 
+Duo magna postulant et, esse verear vix at. Tantas euismod temporibus ne sed, 
+sed ei veniam insolens deterruisset, suscipit appellantur referrentur ne nec. 
+Harum errem pri eu.
+```
+
+##### Desired State
+
+Has an minimum invidunt, ius ex causae mandamus. Id elit dissentiunt per, cu vis consul elaboraret, in dolorum nostrum sit. Duo magna postulant et, esse verear vix at. Tantas euismod temporibus ne sed, sed ei veniam insolens deterruisset, suscipit appellantur referrentur ne nec. Harum errem pri eu.
+
+Vel nisl ferri consectetuer ad, cum tota soleat feugiat te. Has ut invidunt suavitate inciderint. Moderatius dissentiunt est et, debet ornatus lucilius cu eos. An modus augue ubique mel, ut omnesque evertitur vix.
+
+```powershell
+Has an minimum invidunt, ius ex causae mandamus. 
+Id elit dissentiunt per, cu vis consul elaboraret, in dolorum nostrum sit. 
+Duo magna postulant et, esse verear vix at. Tantas euismod temporibus ne sed, 
+sed ei veniam insolens deterruisset, suscipit appellantur referrentur ne nec. 
+Harum errem pri eu.
+```
+
+##### Azure Resource Manager
+
+Has an minimum invidunt, ius ex causae mandamus. Id elit dissentiunt per, cu vis consul elaboraret, in dolorum nostrum sit. Duo magna postulant et, esse verear vix at. Tantas euismod temporibus ne sed, sed ei veniam insolens deterruisset, suscipit appellantur referrentur ne nec. Harum errem pri eu.
+
+Vel nisl ferri consectetuer ad, cum tota soleat feugiat te. Has ut invidunt suavitate inciderint. Moderatius dissentiunt est et, debet ornatus lucilius cu eos. An modus augue ubique mel, ut omnesque evertitur vix.
+
+```powershell
+Has an minimum invidunt, ius ex causae mandamus. 
+Id elit dissentiunt per, cu vis consul elaboraret, in dolorum nostrum sit. 
+Duo magna postulant et, esse verear vix at. Tantas euismod temporibus ne sed, 
+sed ei veniam insolens deterruisset, suscipit appellantur referrentur ne nec. 
+Harum errem pri eu.
+```
